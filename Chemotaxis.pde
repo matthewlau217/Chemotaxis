@@ -2,7 +2,8 @@
  void setup()   
  {     
    size(500,500);
-   uwu = new owo[100000];
+   uwu = new owo[100
+   ];
    for (int i = 0; i < uwu.length; i++){
      uwu[i] = new owo();
    }
